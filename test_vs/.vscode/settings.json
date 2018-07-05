@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/lmn/anaconda2/envs/ros/bin/python",
+    "files.associations": {
+        "algorithm": "cpp",
+        "map": "cpp"
+    }
+}
