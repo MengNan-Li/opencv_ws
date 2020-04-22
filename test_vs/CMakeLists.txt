@@ -57,3 +57,15 @@ TARGET_LINK_LIBRARIES(edges_detected ${OpenCV_LIBS})
 # 霍夫变换
 ADD_EXECUTABLE(hough ./src/hough.cpp)
 TARGET_LINK_LIBRARIES(hough ${OpenCV_LIBS})
+
+ADD_EXECUTABLE(video_roi ./src/video_roi.cpp)
+TARGET_LINK_LIBRARIES(video_roi ${OpenCV_LIBS})
+
+ADD_EXECUTABLE(play_fast_slow ./src/play_fast_slow.cpp)
+TARGET_LINK_LIBRARIES(play_fast_slow ${OpenCV_LIBS})
+
+ADD_EXECUTABLE(breaker_test ./src/breaker_test.cpp ./src/breakerRecognition.cpp ./src/breakerRecognition.h)
+TARGET_LINK_LIBRARIES(breaker_test ${OpenCV_LIBS})
+
+ADD_EXECUTABLE(videocapture ./src/videocapture.cpp)
+TARGET_LINK_LIBRARIES(videocapture ${OpenCV_LIBS})

@@ -41,6 +41,6 @@ int main(int argc, char **argv) {
   Mat mm;
   ManyImages(manyimgV, mm, 1);
   imshow("腐蚀对比", mm);
-  cvWaitKey(0);
+  waitKey(0);
   return 0;
 }
