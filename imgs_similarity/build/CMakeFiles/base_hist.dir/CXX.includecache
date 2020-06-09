@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lmn/opencv_ws/imgs_similarity/src/base_hist.cpp
+opencv2/opencv.hpp
+-
+opencv2/core/core.hpp
+/home/lmn/opencv_ws/imgs_similarity/src/opencv2/core/core.hpp
+opencv2/imgproc/imgproc.hpp
+/home/lmn/opencv_ws/imgs_similarity/src/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/lmn/opencv_ws/imgs_similarity/src/opencv2/highgui/highgui.hpp
+iostream
+-
+string
+-
+stdlib.h
+-
+

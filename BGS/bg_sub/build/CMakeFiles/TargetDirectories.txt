@@ -1,0 +1,3 @@
+/home/lmn/opencv_ws/BGS/bg_sub/build/CMakeFiles/rebuild_cache.dir
+/home/lmn/opencv_ws/BGS/bg_sub/build/CMakeFiles/edit_cache.dir
+/home/lmn/opencv_ws/BGS/bg_sub/build/CMakeFiles/bg_sub.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lmn/opencv_ws/imgs_similarity/src/base_hash.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+iostream
+-
+

@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/lmn/anaconda2/envs/python36/bin/python",
+    "python.pythonPath": "/home/lmn/anaconda3/envs/python36/bin/python",
     "files.associations": {
         "algorithm": "cpp",
         "map": "cpp",
