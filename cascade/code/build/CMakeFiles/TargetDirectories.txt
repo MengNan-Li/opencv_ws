@@ -1,0 +1,3 @@
+/home/lmn/opencv_ws/sell_diagnose/cascade/code/build/CMakeFiles/rebuild_cache.dir
+/home/lmn/opencv_ws/sell_diagnose/cascade/code/build/CMakeFiles/edit_cache.dir
+/home/lmn/opencv_ws/sell_diagnose/cascade/code/build/CMakeFiles/objectDetection.dir

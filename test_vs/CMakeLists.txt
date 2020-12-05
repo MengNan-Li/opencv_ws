@@ -51,9 +51,7 @@ TARGET_LINK_LIBRARIES(size_operation ${OpenCV_LIBS})
 # 阈值
 ADD_EXECUTABLE(threshold ./src/threshold.cpp)
 TARGET_LINK_LIBRARIES(threshold ${OpenCV_LIBS})
-# 边缘检测
-ADD_EXECUTABLE(edges_detected ./src/edges_detected.cpp)
-TARGET_LINK_LIBRARIES(edges_detected ${OpenCV_LIBS})
+
 # 霍夫变换
 ADD_EXECUTABLE(hough ./src/hough.cpp)
 TARGET_LINK_LIBRARIES(hough ${OpenCV_LIBS})

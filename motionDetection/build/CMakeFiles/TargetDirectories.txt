@@ -1,0 +1,6 @@
+/home/lmn/opencv_ws/motionDetection/build/CMakeFiles/edit_cache.dir
+/home/lmn/opencv_ws/motionDetection/build/CMakeFiles/FramesDifference2.dir
+/home/lmn/opencv_ws/motionDetection/build/CMakeFiles/FramesDifference1.dir
+/home/lmn/opencv_ws/motionDetection/build/CMakeFiles/BGDiff.dir
+/home/lmn/opencv_ws/motionDetection/build/CMakeFiles/rebuild_cache.dir
+/home/lmn/opencv_ws/motionDetection/build/CMakeFiles/BGDiff_test.dir
